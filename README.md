@@ -1,4 +1,4 @@
 MusicLyricAnalyzer
 ==================
 
-a music lyric analyzer that interestingly demonstrates the lyric as finite-state machine.
+a music lyric analyzer that interestingly demonstrates conventional lyrics as finite-state machine.
